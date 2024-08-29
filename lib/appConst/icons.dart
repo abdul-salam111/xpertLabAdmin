@@ -1,0 +1,14 @@
+const homeicon="assets/icons/home.png";
+const bookingicon="assets/icons/booking.png";
+const addnewtestCategory="assets/icons/addtestcategory.png";
+const feedbacks="assets/icons/opinion.png";
+const addtest="assets/icons/add.png";
+const settings="assets/icons/settings.png";
+const logout="assets/icons/logout.png";
+const addpackageicon="assets/icons/addnewpackage.png";
+const descriptionicon="assets/icons/description.png";
+const instructionicon="assets/icons/instructions.png";
+const price="assets/icons/dollar.png";
+const referencRange="assets/icons/range.png";
+const diseases="assets/icons/diseases.png";
+const testName="assets/icons/test.png";
